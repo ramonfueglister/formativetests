@@ -15,21 +15,19 @@ Deep Research beruht ebenfalls auf fortgeschrittenen **Sprachmodellen** (Large L
 **Anleitung**: Über die Eingabe-Schnittstelle in ChatGPT kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. Dazu muss der Button "Deep Research aktiviert sein. Die Erarbeitung kann mehrere Minuten in Anspruch nehmen. 
 ![Deep Research Illustration](assets/Deepresearch.png)
 
-
 ### 🧑‍🏫 Praxisbeispiel 1: Einen Ersatz für dein Auto suchen
 
-Angenommen, du möchtest ein neues Auto kaufen:
+Angenommen, du möchtest ein neues E-Auto kaufen. Dann könnte beispielsweise der Prompt hier helfen um eine umfassende Beratung zu erhalten: 
 
 ```yaml
-I’m considering buying a car in Switzerland and weighing the pros and cons of purchasing new versus used. 
+I’m considering buying a new electric car in Switzerland and weighing the pros and cons of purchasing new versus used. 
 I’ve heard that new cars lose value quickly, but I’m unsure if this is always the case or just a common misconception. 
 I want to explore different perspectives on this decision, particularly from people with strong economic reasoning.
 
-Please provide a well-researched breakdown of the key arguments for and against buying a new car versus a used car. 
+Please provide a well-researched breakdown of the key arguments for and against buying a new electric car versus a used car. 
 Include insights from economic principles such as depreciation, total cost of ownership, financing, insurance, and long-term value. 
 If there are notable trends or studies on this topic, summarize them as well. In German.
 ```
-
 ### 🧑‍🏫 Praxisbeispiel 2: Vorbereitung einer Unterrichtsstunde
 
 Angenommen, du möchtest eine **Unterrichtsstunde über Sturzprävention** vorbereiten.  
@@ -58,6 +56,16 @@ Deep Research kann in verschiedensten Lernsituationen eingesetzt werden:
 5. **Entwicklung neuer Unterrichtsmaterialien**  
    Lehrpersonen können Ideen für **Lehrsequenzen**, **Übungsaufgaben** oder **Exkurs-Module** generieren, um Theorie und Praxis noch enger zu verknüpfen.
 
+6. **Weitere Ideen** 
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/scKBbRn6Zec" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+
+
 ## 🚧 Welche Limitationen hat das Tool?
 
 Trotz seines Potenzials sollten Lehrpersonen unbedingt die **Grenzen** und **Risiken** von Deep Research kennen:
@@ -80,19 +88,19 @@ Trotz seines Potenzials sollten Lehrpersonen unbedingt die **Grenzen** und **Ris
 ## 🧭 Welche Handlungsempfehlungen beim Einsatz gibt es für Lehrpersonen?
 
 1. **Kritische Einbettung im Unterricht**  
-   Weisen Sie Lernende darauf hin, dass KI-generierte Inhalte **keine absolute Wahrheit** sind. Lassen Sie **Fakten** aus Deep Research **gegenprüfen** (z. B. in Fachportalen oder Bibliotheken).
+   Weisen Sie Lernende darauf hin, dass KI-generierte Inhalte keine absolute Wahrheit sind. Lassen Sie Fakten aus Deep Research gegenprüfen (z. B. in Fachportalen oder Bibliotheken).
 
 2. **Bewusstsein schaffen**  
-   Thematisieren Sie in der Klasse den **Ethik**- und **Datenschutzaspekt**: Welche Daten dürfen eingegeben werden? Welche Risiken ergeben sich?
+   Thematisieren Sie in der Klasse den Ethik- und Datenschutzaspekt: Welche Daten dürfen eingegeben werden? Welche Risiken ergeben sich?
 
 3. **Kombination mit klassischen Recherchemethoden**  
-   Nutzen Sie Deep Research als **Ergänzung**, nicht als Ersatz. Traditionelle Suchmaschinen, Fachjournaldatenbanken oder Expert*innen-Interviews bleiben wichtig.
+   Nutzen Sie Deep Research als Ergänzung, nicht als Ersatz. Traditionelle Suchmaschinen, Fachjournaldatenbanken oder Expert:innen-Interviews bleiben wichtig.
 
 4. **Grenzen und Verantwortlichkeit**  
-   Machen Sie deutlich, dass Deep Research **beratende** Funktion hat, aber **menschliche Expertise** nicht ersetzen kann. 
+   Machen Sie deutlich, dass Deep Research beratende Funktion hat, aber menschliche Expertise nicht ersetzen kann. 
 
 5. **Testweise Integration**  
-   Beginnen Sie mit einzelnen **Übungsaufgaben** oder **kleineren Projekten**, um herauszufinden, wie gut das Tool zu Ihrem Unterricht passt.
+   Beginnen Sie mit einzelnen Übungsaufgaben oder kleineren Projekten, um herauszufinden, wie gut das Tool zu Ihrem Unterricht passt.
 
 ## 💡 10 mögliche Beispielprompts
 
@@ -135,5 +143,7 @@ Falls **Deep Research** nicht in Frage kommt (z. B. wegen **Kosten**, **Zugang
 - **[https://gemini.google/overview/deep-research/?hl=en]**: Experimentelles KI-Tool von Google, welches sehr ähnlich funktioniert (mit zusätzlicher Audioausgabe), jedoch noch in eingeschränkter Verfügbarkeit und mit Kosten nach einer Testphase.  
 
 ---
+
+### One 
 
 
