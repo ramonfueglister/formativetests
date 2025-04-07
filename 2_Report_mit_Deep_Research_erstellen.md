@@ -3,7 +3,7 @@
 ## ❓ Was ist „Deep Research“?
 
 Deep Research ist ein experimentelles KI-gestütztes Recherche- und Analyse-Tool von [OpenAI](https://openai.com/). Es soll vor allem **wissenschaftliche Recherchen** sowie das **Verfassen und Bewerten** von Fachtexten automatisieren und erleichtern. Das Projekt befindet sich aktuell in einer Testphase und ist nur über ein **ChatGPT-Plus/Pro-Abo** verfügbar. Deep Research verspricht, umfangreiche Textbestände auszuwerten, Zusammenfassungen zu liefern, Forschungsfragen zu generieren und Literatur kritisch zu beleuchten.
-Es ist vielleicht eine der ersten Beispiele für Narrow Agents [One Use Fulthing] (https://www.oneusefulthing.org/p/the-end-of-search-the-beginning-ofs). Es hat noch einige [grössere Limitationen](https://leonfurze.com/2025/02/15/hands-on-with-deep-research/)  ein gewagter Use Case zeigt aber wie Forschende damit mehr oder weniger erfolgreich [eine Dissertation schreiben](https://futureofbeinghuman.com/p/can-ai-write-your-phd-dissertation).
+Es ist vielleicht eine der ersten Beispiele für [agentisches Verhalten von KI](https://www.oneusefulthing.org/p/the-end-of-search-the-beginning-ofs). Es hat noch einige [grössere Limitationen](https://leonfurze.com/2025/02/15/hands-on-with-deep-research/)  ein gewagter Use Case zeigt aber wie Forschende damit mehr oder weniger erfolgreich [eine Dissertation schreiben](https://futureofbeinghuman.com/p/can-ai-write-your-phd-dissertation).
 
 ## ⚙️ Wie funktioniert Deep Research?
 
