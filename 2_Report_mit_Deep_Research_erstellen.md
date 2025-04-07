@@ -1,10 +1,10 @@
 # Deep Research von OpenAI
 
-## Was ist „Deep Research“?
+## 🧠 Was ist „Deep Research“?
 
 Deep Research ist ein experimentelles KI-gestütztes Recherche- und Analyse-Tool von [OpenAI](https://openai.com/). Es soll vor allem **wissenschaftliche Recherchen** sowie das **Verfassen und Bewerten** von Fachtexten automatisieren und erleichtern. Das Projekt befindet sich aktuell in einer **Beta-Phase** und ist nur über ein **ChatGPT-Plus/Pro-Abo** verfügbar. Deep Research verspricht, umfangreiche Textbestände auszuwerten, Zusammenfassungen zu liefern, Forschungsfragen zu generieren und Literatur kritisch zu beleuchten.
 
-## Wie funktioniert Deep Research?
+## 🎯 Wie funktioniert Deep Research?
 
 Deep Research beruht auf fortgeschrittenen **Sprachmodellen** (Large Language Models, kurz LLMs). Über eine Eingabe-Schnittstelle (ähnlich wie ChatGPT) kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. 
 
@@ -114,7 +114,7 @@ Falls **Deep Research** nicht in Frage kommt (z. B. wegen **Kosten**, **Zugang
 
 - **[Elicit](https://elicit.org/)**: Ein freies Forschungstool, das auf Paper-Suche und -Zusammenfassung spezialisiert ist.  
 - **[Perplexity AI](https://www.perplexity.ai/)**: Kostenlose KI-Suchmaschine, die knappe Antworten und Quellenlisten bietet.  
-- **[https://bard.google.com/(https://gemini.google/overview/deep-research/?hl=en]**: Experimentelles KI-Tool von Google, welches sehr ähnlich funktioniert (mit zusätzlicher Audioausgabe), jedoch noch in eingeschränkter Verfügbarkeit und mit Kosten nach einer Testphase.  
+- **[https://gemini.google/overview/deep-research/?hl=en]**: Experimentelles KI-Tool von Google, welches sehr ähnlich funktioniert (mit zusätzlicher Audioausgabe), jedoch noch in eingeschränkter Verfügbarkeit und mit Kosten nach einer Testphase.  
 
 ---
 
