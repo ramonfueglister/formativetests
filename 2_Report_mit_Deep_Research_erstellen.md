@@ -6,7 +6,10 @@ Deep Research ist ein experimentelles KI-gestütztes Recherche- und Analyse-Tool
 
 ## ⚙️ Wie funktioniert Deep Research?
 
-Deep Research beruht auf fortgeschrittenen **Sprachmodellen** (Large Language Models, kurz LLMs). Über eine Eingabe-Schnittstelle in ChatGPT kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. 
+Deep Research beruht auf fortgeschrittenen **Sprachmodellen** (Large Language Models, kurz LLMs). Über die Eingabe-Schnittstelle in ChatGPT kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. Dazu muss der Button "Deep Research aktiviert sein. Die Erarbeitung kann mehrere Minuten in Anspruch nehmen. 
+![Deep Research Illustration](assets/Deepresearch.png)
+
+
 
 - **Technische Basis**: Die KI nutzt neuronale Netze, die anhand riesiger Datenmengen trainiert wurden.  
 - **Ergebnisdarstellung**: Deep Research gibt Antworten in Fliesstextform, ergänzt um Quellenangaben oder weiterführende Links.  
