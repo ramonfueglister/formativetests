@@ -2,18 +2,20 @@
 
 ## ❓ Was ist „Deep Research“?
 
-Deep Research ist ein experimentelles KI-gestütztes Recherche- und Analyse-Tool von [OpenAI](https://openai.com/). Es soll vor allem **wissenschaftliche Recherchen** sowie das **Verfassen und Bewerten** von Fachtexten automatisieren und erleichtern. Das Projekt befindet sich aktuell in einer **Beta-Phase** und ist nur über ein **ChatGPT-Plus/Pro-Abo** verfügbar. Deep Research verspricht, umfangreiche Textbestände auszuwerten, Zusammenfassungen zu liefern, Forschungsfragen zu generieren und Literatur kritisch zu beleuchten.
+Deep Research ist ein experimentelles KI-gestütztes Recherche- und Analyse-Tool von [OpenAI](https://openai.com/). Es soll vor allem **wissenschaftliche Recherchen** sowie das **Verfassen und Bewerten** von Fachtexten automatisieren und erleichtern. Das Projekt befindet sich aktuell in einer Testphase und ist nur über ein **ChatGPT-Plus/Pro-Abo** verfügbar. Deep Research verspricht, umfangreiche Textbestände auszuwerten, Zusammenfassungen zu liefern, Forschungsfragen zu generieren und Literatur kritisch zu beleuchten.
 
 ## ⚙️ Wie funktioniert Deep Research?
 
-Deep Research beruht auf fortgeschrittenen **Sprachmodellen** (Large Language Models, kurz LLMs). Über die Eingabe-Schnittstelle in ChatGPT kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. Dazu muss der Button "Deep Research aktiviert sein. Die Erarbeitung kann mehrere Minuten in Anspruch nehmen. 
+Deep Research beruht ebenfalls auf fortgeschrittenen **Sprachmodellen** (Large Language Models, kurz LLMs). 
+- **Technische Basis**: Die KI nutzt neuronale Netze, die anhand riesiger Datenmengen trainiert wurden.  
+- **Ergebnisdarstellung**: Deep Research gibt Antworten in Fliesstextform, ergänzt um Quellenangaben oder weiterführende Links.  
+- **Integrierte Analyse**: Je nach Befehl durchsucht das Tool Studien, Artikel oder Fachpublikationen und kann statistische Kennzahlen, Argumentationen und Kritikpunkte herausarbeiten.  
+
+**Anleitung**: Über die Eingabe-Schnittstelle in ChatGPT kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. Dazu muss der Button "Deep Research aktiviert sein. Die Erarbeitung kann mehrere Minuten in Anspruch nehmen. 
 ![Deep Research Illustration](assets/Deepresearch.png)
 
 
 
-- **Technische Basis**: Die KI nutzt neuronale Netze, die anhand riesiger Datenmengen trainiert wurden.  
-- **Ergebnisdarstellung**: Deep Research gibt Antworten in Fliesstextform, ergänzt um Quellenangaben oder weiterführende Links.  
-- **Integrierte Analyse**: Je nach Befehl durchsucht das Tool Studien, Artikel oder Fachpublikationen und kann statistische Kennzahlen, Argumentationen und Kritikpunkte herausarbeiten.  
 
 ### 🧑‍🏫 Praxisbeispiel: Vorbereitung einer Unterrichtsstunde
 
