@@ -15,7 +15,9 @@ Deep Research beruht ebenfalls auf fortgeschrittenen **Sprachmodellen** (Large L
 ![Deep Research Illustration](assets/Deepresearch.png)
 
 
-### 🧑‍🏫 Praxisbeispiel 1: Einen Ersatz für meinen Tesla suchen :-)
+### 🧑‍🏫 Praxisbeispiel 1: Einen Ersatz für dein Auto suchen
+
+Angenommen, du möchtest ein neues Auto kaufen:
 
 ```yaml
 I’m considering buying a car in Switzerland and weighing the pros and cons of purchasing new versus used. 
@@ -24,17 +26,17 @@ I want to explore different perspectives on this decision, particularly from peo
 
 Please provide a well-researched breakdown of the key arguments for and against buying a new car versus a used car. 
 Include insights from economic principles such as depreciation, total cost of ownership, financing, insurance, and long-term value. 
-If there are notable trends or studies on this topic, summarize them as well.
+If there are notable trends or studies on this topic, summarize them as well. In German.
 ```
 
 ### 🧑‍🏫 Praxisbeispiel 2: Vorbereitung einer Unterrichtsstunde
 
-Angenommen, Sie sind Lehrperson in der Pflegeausbildung und möchten eine **Unterrichtsstunde über Sturzprävention** vorbereiten.  
-1. **Eingabe**: Sie fügen einen kurzen Text aus einem aktuellen Fachartikel zur Sturzprävention in Pflegeheimen ein und bitten Deep Research um eine **kritische Bewertung** dieser Studie.  
+Angenommen, du möchtest eine **Unterrichtsstunde über Sturzprävention** vorbereiten.  
+1. **Eingabe**: Du fügst einen kurzen Text aus einem aktuellen Fachartikel zur Sturzprävention in Pflegeheimen ein und bittest Deep Research um eine **kritische Bewertung** dieser Studie.  
 2. **Analyse**: Deep Research erkennt die Studiendesign-Infos (z. B. randomisierte Kontrollstudie), extrahiert zentrale Ergebnisse und weist auf mögliche **Mängel** hin (kleine Stichprobe, fehlende Kontrollgruppe).  
-3. **Ergebnis**: Sie erhalten eine **Zusammenfassung** mit **Studiendaten**, **Empfehlungen** für die praktische Umsetzung und Hinweisen zu offenen Fragen, die im Unterricht diskutiert werden können.
+3. **Ergebnis**: Du erhältst eine **Zusammenfassung** mit **Studiendaten**, **Empfehlungen** für die praktische Umsetzung und Hinweisen zu offenen Fragen, die im Unterricht diskutiert werden können.
 
-Auf diese Weise sparen Sie Zeit, bekommen sofort einen **kritischen Einblick** und können das Material aufbereitet in Ihre Lektion einbinden.
+Auf diese Weise sparst du Zeit, bekommen sofort einen **kritischen Einblick** und können das Material aufbereitet in Ihre Lektion einbinden.
 
 ## 🎓 Welche möglichen Einsatzzwecke gibt es für Lehrpersonen und Lernende/Studierende?
 
