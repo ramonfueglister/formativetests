@@ -27,6 +27,7 @@ prompt1: |
 
   Please provide a well-researched breakdown...
 ---
+```
 
 ### 🧑‍🏫 Praxisbeispiel 2: Vorbereitung einer Unterrichtsstunde
 
