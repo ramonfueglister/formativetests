@@ -56,7 +56,8 @@ Deep Research kann in verschiedensten Lernsituationen eingesetzt werden:
 5. **Entwicklung neuer Unterrichtsmaterialien**  
    Lehrpersonen können Ideen für **Lehrsequenzen**, **Übungsaufgaben** oder **Exkurs-Module** generieren, um Theorie und Praxis noch enger zu verknüpfen.
 
-6. **Weitere Ideen** 
+6. **Weitere Ideen**
+    
 <iframe width="560" height="315" 
   src="https://www.youtube.com/embed/scKBbRn6Zec" 
   frameborder="0" 
