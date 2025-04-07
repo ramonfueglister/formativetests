@@ -1,4 +1,4 @@
-# 🧠 Deep Research von OpenAI
+# 🧠 Deep Research
 
 ## ❓ Was ist „Deep Research“?
 
