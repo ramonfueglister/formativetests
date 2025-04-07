@@ -15,12 +15,13 @@ Deep Research beruht ebenfalls auf fortgeschrittenen **Sprachmodellen** (Large L
 ![Deep Research Illustration](assets/Deepresearch.png)
 
 
-### 🧑‍🏫 Praxisbeispiel 2: Vorbereitung einer Unterrichtsstunde
+### 🧑‍🏫 Praxisbeispiel 1: Einen Ersatz für meinen Tesla suchen :-)
 
 ```yaml I’m considering buying a car in Switzerland and weighing the pros and cons of purchasing new versus used. I’ve heard that new cars lose value quickly, but I’m unsure if this is always the case or just a common misconception. I want to explore different perspectives on this decision, particularly from people with strong economic reasoning.
 Please provide a well-researched breakdown of the key arguments for and against buying a new car versus a used car. Include insights from economic principles such as depreciation, total cost of ownership, financing, insurance, and long-term value. If there are notable trends or studies on this topic, summarize them as well. In German.
+---
 
-### 🧑‍🏫 Praxisbeispiel 1: Vorbereitung einer Unterrichtsstunde
+### 🧑‍🏫 Praxisbeispiel 2: Vorbereitung einer Unterrichtsstunde
 
 Angenommen, Sie sind Lehrperson in der Pflegeausbildung und möchten eine **Unterrichtsstunde über Sturzprävention** vorbereiten.  
 1. **Eingabe**: Sie fügen einen kurzen Text aus einem aktuellen Fachartikel zur Sturzprävention in Pflegeheimen ein und bitten Deep Research um eine **kritische Bewertung** dieser Studie.  
