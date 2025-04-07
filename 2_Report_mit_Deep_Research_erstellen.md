@@ -1,10 +1,10 @@
-# Deep Research von OpenAI
+# 🧠 Deep Research von OpenAI
 
-## 🧠 Was ist „Deep Research“?
+## ❓ Was ist „Deep Research“?
 
 Deep Research ist ein experimentelles KI-gestütztes Recherche- und Analyse-Tool von [OpenAI](https://openai.com/). Es soll vor allem **wissenschaftliche Recherchen** sowie das **Verfassen und Bewerten** von Fachtexten automatisieren und erleichtern. Das Projekt befindet sich aktuell in einer **Beta-Phase** und ist nur über ein **ChatGPT-Plus/Pro-Abo** verfügbar. Deep Research verspricht, umfangreiche Textbestände auszuwerten, Zusammenfassungen zu liefern, Forschungsfragen zu generieren und Literatur kritisch zu beleuchten.
 
-## 🎯 Wie funktioniert Deep Research?
+## ⚙️ Wie funktioniert Deep Research?
 
 Deep Research beruht auf fortgeschrittenen **Sprachmodellen** (Large Language Models, kurz LLMs). Über eine Eingabe-Schnittstelle (ähnlich wie ChatGPT) kann man Suchanfragen, Fragen oder Textpassagen eingeben. Die KI analysiert daraufhin den eingegebenen Text, gleicht ihn mit ihrem **Trainingskorpus** ab und liefert **Zusammenfassungen**, **Hypothesen** oder **Vorschläge**. 
 
@@ -12,7 +12,7 @@ Deep Research beruht auf fortgeschrittenen **Sprachmodellen** (Large Language Mo
 - **Ergebnisdarstellung**: Deep Research gibt Antworten in Fliesstextform, ergänzt um Quellenangaben oder weiterführende Links.  
 - **Integrierte Analyse**: Je nach Befehl durchsucht das Tool Studien, Artikel oder Fachpublikationen und kann statistische Kennzahlen, Argumentationen und Kritikpunkte herausarbeiten.  
 
-### Praxisbeispiel: Vorbereitung einer Unterrichtsstunde
+### 🧑‍🏫 Praxisbeispiel: Vorbereitung einer Unterrichtsstunde
 
 Angenommen, Sie sind Lehrperson in der Pflegeausbildung und möchten eine **Unterrichtsstunde über Sturzprävention** vorbereiten.  
 1. **Eingabe**: Sie fügen einen kurzen Text aus einem aktuellen Fachartikel zur Sturzprävention in Pflegeheimen ein und bitten Deep Research um eine **kritische Bewertung** dieser Studie.  
@@ -21,7 +21,7 @@ Angenommen, Sie sind Lehrperson in der Pflegeausbildung und möchten eine **Unte
 
 Auf diese Weise sparen Sie Zeit, bekommen sofort einen **kritischen Einblick** und können das Material aufbereitet in Ihre Lektion einbinden.
 
-## Welche möglichen Einsatzzwecke gibt es für Lehrpersonen und Lernende/Studierende?
+## 🎓 Welche möglichen Einsatzzwecke gibt es für Lehrpersonen und Lernende/Studierende?
 
 Deep Research kann in verschiedensten Lernsituationen eingesetzt werden:
 
@@ -40,7 +40,7 @@ Deep Research kann in verschiedensten Lernsituationen eingesetzt werden:
 5. **Entwicklung neuer Unterrichtsmaterialien**  
    Lehrpersonen können Ideen für **Lehrsequenzen**, **Übungsaufgaben** oder **Exkurs-Module** generieren, um Theorie und Praxis noch enger zu verknüpfen.
 
-## Welche Limitationen hat das Tool?
+## 🚧 Welche Limitationen hat das Tool?
 
 Trotz seines Potenzials sollten Lehrpersonen unbedingt die **Grenzen** und **Risiken** von Deep Research kennen:
 
@@ -59,7 +59,7 @@ Trotz seines Potenzials sollten Lehrpersonen unbedingt die **Grenzen** und **Ris
 5. **Datenschutz**  
    Bei sensiblen Daten oder patientenbezogenen Informationen müssen Lehrpersonen sorgfältig prüfen, was sie eingeben (Stichwort **Anonymisierung**).
 
-## Welche Handlungsempfehlungen beim Einsatz gibt es für Lehrpersonen?
+## 🧭 Welche Handlungsempfehlungen beim Einsatz gibt es für Lehrpersonen?
 
 1. **Kritische Einbettung im Unterricht**  
    Weisen Sie Lernende darauf hin, dass KI-generierte Inhalte **keine absolute Wahrheit** sind. Lassen Sie **Fakten** aus Deep Research **gegenprüfen** (z. B. in Fachportalen oder Bibliotheken).
@@ -76,36 +76,36 @@ Trotz seines Potenzials sollten Lehrpersonen unbedingt die **Grenzen** und **Ris
 5. **Testweise Integration**  
    Beginnen Sie mit einzelnen **Übungsaufgaben** oder **kleineren Projekten**, um herauszufinden, wie gut das Tool zu Ihrem Unterricht passt.
 
-## 10 mögliche Beispielprompts
+## 💡 10 mögliche Beispielprompts
 
-1. **Zusammenfassung & Evaluation**  
+1. 🧪 **Zusammenfassung & Evaluation**  
    > *„Fasse diesen Fachartikel zur geriatrischen Sturzprävention zusammen und bewerte die Aussagekraft des Studiendesigns.“*
 
-2. **Kontroverse Analyse**  
-   > *„Zeige mir die Hauptargumente für und gegen Impfpflichten im Gesundheitssektor und beurteile die Qualität der vorliegenden Quellen.“*
+2. ⚖️ **Kontroverse Analyse**  
+   > *„Zeige mir die Hauptargumente für und gegen Impfpflicht im Gesundheitssektor anhand der aktuellen Forschungsdebatten in der Didaktik.“*
 
-3. **Projektplanung**  
+3. 🧾 **Projektplanung**  
    > *„Entwirf ein Forschungskonzept, um den Zusammenhang zwischen Schlafqualität und Burnout-Risiko bei Pflegenden zu untersuchen.“*
 
-4. **Fallstudienkritik**  
+4. 🩺 **Fallstudienkritik**  
    > *„Analysiere den anonymisierten Fallbericht einer Patientin mit Wundheilungsstörungen. Welche Pflegediagnosen und -interventionen ergeben sich evidenzbasiert?“*
 
-5. **Literaturrecherche**  
+5. 🔍 **Literaturrecherche**  
    > *„Finde aktuelle Studien (ab 2021) zum Thema Robotik in der Pflege und ordne sie nach ihrer Evidenzstufe.“*
 
-6. **Ethik & Recht**  
+6. 🛡️ **Ethik & Recht**  
    > *„Diskutiere die ethischen Bedenken beim Einsatz von Überwachungskameras in Pflegeheimen und beziehe dich dabei auf geltendes Datenschutzrecht.“*
 
-7. **Qualitätsmanagement**  
+7. 📊 **Qualitätsmanagement**  
    > *„Schlage ein Qualitätsmanagement-Konzept für eine Station vor, die einen starken Anstieg von Krankenhausinfektionen zu verzeichnen hat.“*
 
-8. **Lehrunterlagen erstellen**  
+8. 📚 **Lehrunterlagen erstellen**  
    > *„Erstelle ein Schaubild und fünf Fragen für eine Unterrichtsstunde zum Thema Palliativpflege (Zielgruppe: HF Pflege).“*
 
-9. **Faktencheck**  
+9. 🧯 **Faktencheck**  
    > *„Zeige mir bitte alle Widersprüche oder fehlenden Daten in diesem wissenschaftlichen Artikel zur Telemedizin und schlage Alternativen vor.“*
 
-10. **Praxisübungen**  
+10. 🏃 **Praxisübungen**  
    > *„Nenne drei praktische Pflegeübungen, die Lernende selbst durchführen können, um Sturzrisiken bei älteren Menschen zu erkennen und zu minimieren.“*
 
 ## Welche Alternativen gibt es?
